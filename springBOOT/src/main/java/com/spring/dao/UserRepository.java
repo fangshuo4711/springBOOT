@@ -6,6 +6,6 @@ import com.spring.entity.User;
 
 public interface UserRepository extends JpaRepository<User, Integer>{
 	/**
-	 * ahaah
+	 * ahaah的分数是多少水电费
 	 */
 }
